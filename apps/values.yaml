@@ -2,5 +2,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/REPLACE_ME/rht-summit-2023-gitops-cluster-mgmt
-    targetRevision: HEAD
+    repoURL: https://github.com/tali-oransky/rht-summit-2023-gitops-cluster-mgmt
+    targetRevision: HEAD.
